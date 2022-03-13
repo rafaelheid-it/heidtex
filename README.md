@@ -1,5 +1,5 @@
-# Example Package
+# HeidTex
 
-This is a simple example package. You can use
-[Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-to write your content.
+This package aims to aid developers, students and researchers to simplify adding tables and other LaTex elements to their reports and papers.
+
+The package is currently in development and features will follow in the near future.
